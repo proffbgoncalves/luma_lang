@@ -1,0 +1,12 @@
+module AvaliacaoAluno;
+    const NOTA_APROVACAO: float = 6.0;
+main {
+    var nota: float = 8.5;
+    var aprovado: bool;
+    aprovado = nota >= NOTA_APROVACAO;
+    if (aprovado == true) {
+        print("Aluno aprovado");
+    } else {
+        print("Aluno reprovado");
+    }
+}
