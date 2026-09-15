@@ -20,6 +20,8 @@ A LUMA tem como principais objetivos:
 - reduzir a complexidade acidental presente em linguagens de programação de propósito geral;
 - aproximar conceitos teóricos de Compiladores de uma implementação executável.
 
+> A proposta pedagógica da LUMA baseia-se na proposta da linguagem ALGUMA, desenvolvida durante as aulas de Projeto de Compiladores do Prof. D.Sc. Daniel Lucrédio da UFSCAR.
+
 > A LUMA não pretende competir com linguagens de programação de propósito geral. Seu projeto é deliberadamente orientado ao uso acadêmico.
 
 ---
